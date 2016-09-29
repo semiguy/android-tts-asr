@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceSearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="initial_prompt_en">What is your query?</string>
+	<string name="initial_prompt">검색어를 말씀해 주십시오.</string>
+    <string name="searching_prompt_en">Searching for</string>
+    <string name="searching_prompt">검색합니다.</string>
+    <string name="speechbtn_default">Press to speak</string>
+	<string name="speechbtn_listening">I am listening!</string>
+</resources>
