@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Colors -->
+	<color name="speechbtn_default">#EEEEEE</color>
+	<color name="speechbtn_listening">#99FFBB</color>    
+</resources>
